@@ -1,0 +1,8 @@
+2026-09-15 22:27:24,370 [INFO] Starting Milestone 1 ETL Pipeline Execution.
+2026-09-15 22:27:24,370 [INFO] Ingesting catalog data from 'netflix_titles.csv'...
+2026-09-15 22:27:24,478 [INFO] Loaded 8807 records from dataset.
+2026-09-15 22:27:24,569 [INFO] Duration cleaning completed. Null durations remaining: 0
+2026-09-15 22:27:24,673 [INFO] Loaded 8807 rows into table 'content_catalog'.
+2026-09-15 22:27:24,698 [INFO] Loaded 500 rows into table 'user_subscriptions'.
+2026-09-15 22:27:24,766 [INFO] Loaded 3000 rows into table 'watch_logs'.
+2026-09-15 22:27:24,770 [INFO] ETL Pipeline completed successfully. SQLite DB generated: warehouse.db

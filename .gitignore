@@ -1,0 +1,7 @@
+# Generated SQLite database
+warehouse.db
+
+# System files
+desktop.ini
+__pycache__/
+.venv/
